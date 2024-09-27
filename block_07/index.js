@@ -8,9 +8,9 @@ Pseudocode
 
 // uses addition to display first number in combination
 const first = 8 + 2;
-// uses multiplication to display first number in combination
+// uses multiplication to display second number in combination
 const second = 10 * 4;
-// uses subtraction to display first number in combination
+// uses subtraction to display third number in combination
 const third = 40 - 1;
 
 // combines the message with combination
